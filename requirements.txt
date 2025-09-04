@@ -1,0 +1,12 @@
+streamlit
+googlesearch-python
+requests
+beautifulsoup4
+pymupdf
+python-docx
+sympy
+matplotlib
+numpy
+gTTS
+SpeechRecognition
+pydub
