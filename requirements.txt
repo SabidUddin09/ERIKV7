@@ -1,12 +1,12 @@
 streamlit
-googlesearch-python
 requests
 beautifulsoup4
-pymupdf
+PyMuPDF
 python-docx
 sympy
 matplotlib
 numpy
-gTTS
 SpeechRecognition
+gTTS
+edge-tts
 pydub
